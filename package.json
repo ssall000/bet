@@ -1,0 +1,16 @@
+{
+  "name": "betwinner-groupbot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^12.4.1",
+    "mongo": "^0.1.0"
+  }
+}
